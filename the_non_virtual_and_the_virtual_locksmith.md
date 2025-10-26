@@ -5,11 +5,10 @@ Any locksmith, of any mathematical level, knows that there are the following typ
 ### Doors
 
 1. **A door that is manufactured without a lock and hence cannot be locked**: simple open/close/slide doors.
-1. **A door that is manufactured unlocked but can be both locked AND unlocked**: Standard in-house doors.
+1. **A door that is manufactured either way and can be either unlocked or locked and vice versa**: Standard doors.
 1. **A door that is manufactured locked but cannot be unlocked**: Welded container cover.
 1. **A door that is manufactured locked but can only be unlocked**: Some emergency doors.
 1. **A door that is manufactured locked but can be both unlocked AND locked**: Some vault doors.
-1. **A door that is manufactured either way and can be either unlocked or locked and vice versa**: Standard doors in general.
 1. **A door that is manufactured lockable and unlocked but can only be locked**: Non-retractable deadbolt; very rare kind of security door in which the bolt can be thrown (locked) from one side but cannot be retracted (unlocked) from that side (the bolt fell in the other sie) which probably uses to store very rare products. Also, using solid rivets or shear‑off bolts, or potting the lock in high‑strength epoxy/metallic resin or crimp‑lead seals — create a non‑reversible closure unless we destroy it (used for tamper seals, evidence bags, sealed vault lids). These are destructive, often regulated, and can be dangerous or illegal if misused.
 
 Passing through any door may require a password.
