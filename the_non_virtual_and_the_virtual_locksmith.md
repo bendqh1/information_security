@@ -4,7 +4,6 @@ Any locksmith, of any mathematical level, knows that there are the following typ
 
 ### Doors
 
-
 1. **A door that is manufactured without a lock and hence cannot be locked**: simple open/close/slide doors.
 1. **A door that is manufactured unlocked but can be both locked AND unlocked**: Standard in-house doors.
 1. **A door that is manufactured locked but cannot be unlocked**: Welded container cover.
