@@ -31,3 +31,13 @@ The virtual world isn't much different in that context, but it has more abstract
 The simplest example is a very long password (thousands of bytes) AND a guessing-prevention-mechanism.
 
 Changing a password to such that the changer cannot remember and cannot restore (and saving the results in a computer system) principally possible only in the online world.
+
+### Cryptography
+
+Cryptography is how to translate messages to a temporary language known only to both ends in a conversation.
+
+Cryptography can be done both in the non virtual world and in the virtual world.
+
+The two types of cryptography are symmetric and asymmetric.
+
+The main difference between the two is that in symmetric cryptography the message message is the same in both ends and that in asymmetric cryptography it isn't the same in both ends.
