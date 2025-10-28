@@ -1,6 +1,6 @@
-## Disable images
-
 about:config
+
+## Disable images
 
 permissions.default.image
 
