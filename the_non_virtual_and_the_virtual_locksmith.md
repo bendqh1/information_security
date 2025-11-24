@@ -26,7 +26,7 @@ Passing through any door may require a password.
 
 ## The virtual world
 
-The virtual world isn't much different in that context, but it has more abstract, more complicated and more mathematical concepts and devices.
+The virtual world isn't different in that context, but it has more abstract, more complicated and more mathematical concepts and devices.
 
 The simplest example is a very long password (thousands of bytes) AND a guessing-prevention-mechanism.
 
